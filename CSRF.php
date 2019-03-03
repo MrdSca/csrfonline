@@ -2,6 +2,7 @@
     <head>
         <link rel="icon" type="image/jpg" href='https://seken.co.id/assets/uploads/post/Monkey-de-Luffy-One-Piece-81.jpg'/>
         <title># CSRF Onlen ScA</title>
+		 <center><audio autoplay="autoplay" controls="controls" src="https://kzed.yxwz.xyz/@download/140-5c1bee984e3ab-4800000-200-192-m4a-3175526/mp3/QZXc39hT8t4/Dr.%2BDre%2B-%2BThe%2BNext%2BEpisode%2Bft.%2BSnoop%2BDogg%252C%2BKurupt%252C%2BNate%2BDogg.mp3" type="audio/mpeg"></audio>
 		 <iframe width="0%" height="0" scrolling="no" frameborder="no" loop="true" allow="autoplay" src="https://d.top4top.net/m_10932vbu71.mp3"></iframe>
          <link type="text/css" href="" rel="stylesheet"> 
          <link href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300" rel="stylesheet" type="text/css">
@@ -21,10 +22,8 @@
                                <span style="font-family: monospace;"></head>
                                <center> 
                                <div class="error">
-                                  <img border="0" src="https://seken.co.id/assets/uploads/post/Monkey-de-Luffy-One-Piece-81.jpg" width="250" height="">
-                                     <br>
-                                        <font size="4" face="Terminal">
-                                      <br>                                                                         </br>
+                                  <center><img border="0" src="https://seken.co.id/assets/uploads/post/Monkey-de-Luffy-One-Piece-81.jpg" width="300" height="250"></br>
+                                        <font size="4" face="Terminal">                                                                        
                                            <font size="4" face="Terminal">
                                               
                                            </font></p>
