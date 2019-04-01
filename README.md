@@ -1,2 +1,2 @@
-# CSRF ONLINE SCA
+# CSRF ONLINE
 # uploaded to the website ;)
